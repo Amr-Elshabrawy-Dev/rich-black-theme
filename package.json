@@ -1,0 +1,22 @@
+{
+  "name": "rich-black-theme",
+  "displayName": "Rich-black-theme",
+  "description": "A custom color theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "AmrElshabrawy",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rich Black Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rich Black Theme-color-theme.json"
+      }
+    ]
+  }
+}
