@@ -10,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amr-Elshabrawy-Dev/rich-black-theme"
+  },
   "contributes": {
     "themes": [
       {
@@ -18,5 +22,6 @@
         "path": "./themes/Rich Black Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
