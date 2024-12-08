@@ -24,6 +24,8 @@ A rich and sleek **black color theme** for Visual Studio Code. This theme brings
 - Search for **"Rich Black Theme"**.
 - Click **Install** to add the theme to your VS Code.
 
+---
+
 ### Via Command Line
 
 You can also install the extension directly using the terminal:
@@ -32,11 +34,15 @@ You can also install the extension directly using the terminal:
 code --install-extension your-publisher-name.rich-black-theme
 ```
 
+---
+
 ## 🔍 Features
 
 - Sleek Black Interface: A visually appealing black theme with a smooth interface.
 - Rich Syntax Highlighting: Enhanced syntax highlighting for multiple programming languages.
 - Customizable Colors: Consistent and rich UI colors for a better coding experience.
+
+---
 
 ## 🛠️ How to Use
 
@@ -51,6 +57,8 @@ Alternatively, you can modify your `settings.json`:
   "workbench.colorTheme": "Rich Black Theme"
 }
 ```
+
+---
 
 ## 📝 Configuration
 
@@ -71,6 +79,8 @@ To change the `activityBar` colors, modify:
 }
 ```
 
+---
+
 ## 📖 Contributing
 
 If you'd like to contribute to improving the theme or add new features:
@@ -80,14 +90,20 @@ If you'd like to contribute to improving the theme or add new features:
 - Make your changes and run tests locally.
 - Open a Pull Request with a clear description of what you've done.
 
+---
+
 ## 📜 License
 
 - This extension is licensed under the MIT License.
+
+---
 
 ## 🙌 Acknowledgments
 
 - Thank you to the open-source community that continuously improves the tools we use every day.
 - This extension relies on standard VS Code UI and built-in themes but aims to offer a more cohesive black interface experience.
+
+---
 
 ### 👋 Get In Touch
 
