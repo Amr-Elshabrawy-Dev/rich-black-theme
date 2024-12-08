@@ -68,7 +68,6 @@ To change the `activityBar` colors, modify:
   "editor.fontFamily": "Cascadia Code, Fira Code iScript, Fira Code",
   "terminal.integrated.fontFamily": "MesloLGS NF, Fira Code",
   "editor.fontLigatures": "'ss02', 'ss03', 'ss19', 'ss20'",
-  "editor.showFoldingControls": "never"
 }
 ```
 
