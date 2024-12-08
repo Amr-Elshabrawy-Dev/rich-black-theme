@@ -103,7 +103,7 @@ If you'd like to contribute to improving the theme or add new features:
 
    <div style="width: 100%;" align="center">
      <h3 style="font-size: 30px;">AMR ElSHABRAWY</h3>
-     <img src="./assets/amr.svg" width="120px">
+     <img src="./assets/amr.png" width="120px">
      <p> Created by AMR Elshabrawy</p>
    </div>
 
