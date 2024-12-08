@@ -1,9 +1,10 @@
 {
-  "name": "rich-black-theme",
-  "displayName": "Rich-black-theme",
+  "name": "amr-rich-black-theme",
+  "displayName": "Amr-Rich-black-theme",
   "description": "A custom color theme for VS Code",
   "version": "1.0.0",
-  "publisher": "AmrElshabrawy",
+  "publisher": "rich-black-theme",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -23,5 +24,8 @@
       }
     ]
   },
-  "license": "MIT"
+  "license": "MIT",
+  "sponsor": {
+    "url": "https://github.com/Amr-Elshabrawy-Dev"
+  }
 }
