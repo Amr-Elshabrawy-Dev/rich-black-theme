@@ -21,8 +21,9 @@ A rich and sleek **black color theme** for Visual Studio Code. This theme brings
 
 - Open **Visual Studio Code**.
 - Go to the **Extensions view** by clicking the **Extensions icon** in the sidebar or pressing `Ctrl + Shift + X`.
-- Search for **"Rich Black Theme"**.
+- Search for **"Amr Rich Black Theme"**.
 - Click **Install** to add the theme to your VS Code.
+- 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 ---
 
@@ -33,6 +34,12 @@ You can also install the extension directly using the terminal:
 ```bash
 code --install-extension your-publisher-name.rich-black-theme
 ```
+
+---
+
+## Issues & Suggestions
+
+For any issues or suggestions, please use [GitHub issues](https://github.com/Amr-Elshabrawy-Dev/rich-black-theme/issues).
 
 ---
 
@@ -119,7 +126,7 @@ If you'd like to contribute to improving the theme or add new features:
    <div style="width: 100%;" align="center">
      <h3 style="font-size: 30px;">AMR ElSHABRAWY</h3>
      <img src="./assets/amr.png" width="120px">
-     <p> Created by AMR Elshabrawy</p>
+     <p> Created by &copy AMR Elshabrawy</p>
    </div>
 
 ---

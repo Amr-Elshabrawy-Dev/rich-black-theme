@@ -5,11 +5,39 @@
   "version": "1.0.2",
   "publisher": "rich-black-theme",
   "pricing": "Free",
+  "author": {
+    "name": "Amr Elshabrawy",
+    "url": "https://github.com/Amr-Elshabrawy-Dev"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
+  "bugs": {
+    "url": "https://github.com/Amr-Elshabrawy-Dev/rich-black-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#121726",
+    "theme": "dark"
+  },
+  "icon": "assets/amr-250.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Amr",
+    "rich",
+    "black",
+    "theme",
+    "dark",
+    "dark theme",
+    "vscode",
+    "vscode theme",
+    "vscode dark theme",
+    "blue",
+    "Dark Theme",
+    "vsCodeHero",
+    "codeSTACKr",
+    "Cobalt"
   ],
   "repository": {
     "type": "git",
@@ -26,6 +54,6 @@
   },
   "license": "MIT",
   "sponsor": {
-    "url": "https://github.com/Amr-Elshabrawy-Dev"
+    "url": "https://github.com/sponsors/Amr-Elshabrawy-Dev"
   }
 }
