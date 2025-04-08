@@ -3,7 +3,7 @@
   "displayName": "Amr-Rich-black-theme",
   "description": "A custom color theme for VS Code",
   "version": "1.0.3",
-  "publisher": "rich-black-theme",
+  "publisher": "Amr-Elshabrawy-Dev",
   "pricing": "Free",
   "author": {
     "name": "Amr Elshabrawy",
@@ -46,14 +46,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rich Black Theme",
+        "label": "Rich Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rich Black Theme-color-theme.json"
+        "path": "./themes/Rich Black-color-theme.json"
+      },
+      {
+        "label": "Rich Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rich Night Owl-color-theme.json"
       }
     ]
   },
   "license": "MIT",
   "sponsor": {
     "url": "https://github.com/sponsors/Amr-Elshabrawy-Dev"
+  },
+  "dependencies": {
+    "amr-rich-black-theme": "file:"
   }
 }
