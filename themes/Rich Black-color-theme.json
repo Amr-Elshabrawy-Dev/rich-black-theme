@@ -399,7 +399,7 @@
     "welcomePage.tileHoverBackground": "#9ba8cf20",
     "widget.shadow": "#00000033"
   },
-  "name": "Rich Black",
+  "name": "Rich Dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class.declaration": {

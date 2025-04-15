@@ -49,9 +49,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Rich Black",
+        "label": "Rich Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rich Black-color-theme.json"
+        "path": "./themes/Rich Dark-color-theme.json"
       },
       {
         "label": "Rich Night Owl",
