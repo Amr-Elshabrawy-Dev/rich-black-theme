@@ -1,8 +1,8 @@
 {
-  "name": "amr-rich-black-theme",
-  "displayName": "Amr-Rich-black-theme",
+  "name": "amr-rich-dark-theme",
+  "displayName": "Amr-Rich-dark-theme",
   "description": "A custom color theme for VS Code",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "publisher": "Amr-Elshabrawy-Dev",
   "pricing": "Free",
   "author": {
@@ -37,7 +37,10 @@
     "Dark Theme",
     "vsCodeHero",
     "codeSTACKr",
-    "Cobalt"
+    "Cobalt",
+    "Night Owl",
+    "Night Owl Dark",
+    "Rich Dark"
   ],
   "repository": {
     "type": "git",

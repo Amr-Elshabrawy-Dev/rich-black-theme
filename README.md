@@ -1,17 +1,24 @@
-# 🎨 Rich Black Theme for VS Code
+# 🎨 Rich Dark Theme for VS Code
 
-**react**
-<img width="100%" src="./assets/SharedScreenshot.jpg" alt="Weather App Website Home page">
-**css**
-<img width="100%" src="./assets/SharedScreenshot-1.jpg" alt="Weather App Website Home page">
-**javascript**
-<img width="100%" src="./assets/SharedScreenshot-2.jpg" alt="Weather App Website Home page">
-**json**
-<img width="100%" src="./assets/SharedScreenshot-3.jpg" alt="Weather App Website Home page">
-**html**
-<img width="100%" src="./assets/SharedScreenshot-4.jpg" alt="Weather App Website Home page">
+A sophisticated **dark theme** for Visual Studio Code that delivers an unparalleled coding experience. Featuring:
 
-A rich and sleek **black color theme** for Visual Studio Code. This theme brings a modern and elegant black interface with a rich visual experience, perfect for developers who love a clean and dark workspace.
+- 🖤 Pure black background optimized for OLED displays
+- 🎨 Vibrant syntax highlighting for enhanced code readability
+- 🌈 Carefully curated color palette for reduced eye strain
+- ✨ Modern and elegant interface design
+- 💻 Optimized for long coding sessions
+
+Perfect for developers who demand both style and functionality in their coding environment. Available in two variants: **Rich Black** and **Night Owl**.
+
+<details>
+<summary><strong>Rich Black</strong></summary>
+<img width="100%" src="./assets/rich-black.jpg" alt="Rich black syntax highlighting preview">
+</details>
+
+<details>
+<summary><strong>Night Owl Preview</strong></summary>
+<img width="100%" src="./assets/night-owl.jpg" alt="Night Owl syntax highlighting preview">
+</details>
 
 ---
 
@@ -45,9 +52,28 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 
 ## 🔍 Features
 
-- Sleek Black Interface: A visually appealing black theme with a smooth interface.
-- Rich Syntax Highlighting: Enhanced syntax highlighting for multiple programming languages.
-- Customizable Colors: Consistent and rich UI colors for a better coding experience.
+**🎨 Rich Black Theme:**
+
+- 🖤 Sleek Black Interface: Ultra-dark theme optimized for long coding sessions
+- 🌈 Rich Syntax Highlighting: Vibrant colors that pop against the deep black background
+- 👀 High Contrast: Carefully selected color combinations for optimal readability
+- ⚙️ Customizable UI: Fine-tuned controls for personalizing your coding environment
+- 💻 Code-First Design: Optimized for multiple programming languages and frameworks
+
+**🌙 Night Owl Theme:**
+
+- 🌌 Soft Dark Interface: Comfortable dark blue tones for reduced eye strain
+- 🎨 Natural Syntax Colors: Nature-inspired color palette for intuitive coding
+- 🔍 Semantic Highlighting: Enhanced code readability with meaningful color associations
+- 🌙 Low-Light Optimized: Perfect for late-night coding sessions
+- ♿ Accessible Design: Carefully chosen contrast ratios for better visibility
+
+**✨ Both themes feature:**
+
+- 🎯 Custom Workbench Colors: Harmonious UI elements across the entire IDE
+- 📝 Italic Support: Enhanced styling for comments and keywords
+- 🔄 Git Decoration: Clear indication of source control changes
+- 💻 Integrated Terminal: Matching colors for a consistent experience
 
 ---
 
@@ -67,22 +93,49 @@ Alternatively, you can modify your `settings.json`:
 
 ---
 
-## 📝 Configuration
+## ⚙️ Recommended Settings
 
-You can customize some UI elements by modifying your `settings.json`. For example:
+For the best experience with Rich Black Theme, we recommend the following configurations in your VS Code `settings.json`:
 
-Activity Bar
-To change the `activityBar` colors, modify:
+### 📝 Basic Settings
+
+- Optimized font configuration
+- Enhanced readability settings
+- Improved visual appearance
+- Customized cursor behavior
+
+### 🎨 Theme Customization
+
+You can further personalize your setup by adding these settings:
 
 ```json
 {
-  "activityBar.activeBorder": "#3A7FFF",
-  "activityBar.background": "#000000",
-  "activityBar.activeForeground": "#FFFFFF",
+  "window.zoomLevel": -0.25,
+  "editor.fontFamily": "Cascadia Code, VictorMono Nerd Font, Fira Code",
   "editor.fontSize": 16,
-  "editor.fontFamily": "Cascadia Code, Fira Code iScript, Fira Code",
-  "terminal.integrated.fontFamily": "MesloLGS NF, Fira Code",
+  "editor.lineHeight": 30,
+  "editor.fontWeight": "bold",
+  "terminal.integrated.fontWeight": "bold",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
   "editor.fontLigatures": "'ss02', 'ss03', 'ss19', 'ss20'",
+  "editor.showFoldingControls": "always",
+  "workbench.colorTheme": "Rich Black Theme",
+  "workbench.editor.pinnedTabSizing": "compact",
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "editor.renderLineHighlight": "gutter",
+  "indentRainbow.indicatorStyle": "light",
+  "indentRainbow.colors": [
+    "rgba(49, 142, 204,0.3)",
+    "rgba(127,255,127,0.3)",
+    "rgba(255,127,255,0.3)",
+    "rgba(255,255,64,0.3)"
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorWidth": 4,
 }
 ```
 
@@ -112,21 +165,31 @@ If you'd like to contribute to improving the theme or add new features:
 
 ---
 
-### 👋 Get In Touch
+## 🌐 Support
 
-- [🌐 My Website 👉 https://github.com/Amr-Elshabrawy-Dev](https://github.com/Amr-Elshabrawy-Dev)
-- [👔 LinkedIn 👉 https://www.linkedin.com/in/amr-elshabrawy-dev](https://www.linkedin.com/in/amr-elshabrawy-dev)
-- [🌟 Github 👉 https://github.com/Amr-Elshabrawy-Dev](https://github.com/Amr-Elshabrawy-Dev)
-- [📧 Gmail 👉 amrelshabrawy.dev@gmail.com](mailto:amrelshabrawy.dev@gmail.com)
-- [🐤 Twitter 👉 https://twitter.com/AmrElshbrawy217](https://twitter.com/AmrElshbrawy217)
-- [☎️ Whatsapp 👉 (+20) 120-254-6653](https://api.whatsapp.com/send/?phone=%2B2001202546653&text&type=phone_number&app_absent=0)
+<div align="center">
+
+[![⭐ Star This Theme](https://img.shields.io/github/stars/Amr-Elshabrawy-Dev/rich-black-theme?style=for-the-badge&logo=github&color=yellow)](https://github.com/Amr-Elshabrawy-Dev/rich-black-theme) [![VS Code Downloads](https://img.shields.io/visual-studio-marketplace/d/rich-black-theme.amr-rich-black-theme?style=for-the-badge&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=rich-black-theme.amr-rich-black-theme) [![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/rich-black-theme.amr-rich-black-theme?style=for-the-badge&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=rich-black-theme.amr-rich-black-theme) [![VS Code Rating](https://img.shields.io/visual-studio-marketplace/r/rich-black-theme.amr-rich-black-theme?style=for-the-badge&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=rich-black-theme.amr-rich-black-theme)
+</div>
 
 ---
 
-   <div style="width: 100%;" align="center">
-     <h3 style="font-size: 30px;">AMR ElSHABRAWY</h3>
-     <img src="./assets/amr.png" width="120px">
-     <p> Created by &copy AMR Elshabrawy</p>
-   </div>
+### 🤝 Get in Touch
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/@AmrElshabr43803)
+
+</div>
+
+---
+
+  <div align="center">
+    <h1 style="color: #2ea44f;">👨‍💻 AMR ELSHABRAWY</h1>
+      <img src="./assets/amr.svg" alt="Amr Elshabrawy Logo" width="100">
+      <p style="color: #586069; font-size: 1.1rem; margin-top: 1rem;">
+        Created with 💚 by <strong><a href="https://github.com/Amr-Elshabrawy-Dev">AMR ELSHABRAWY</a></strong> 🌟 &copy; 2025
+      </p>
+  </div>
 
 ---
