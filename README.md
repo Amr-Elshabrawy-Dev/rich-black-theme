@@ -135,7 +135,7 @@ You can further personalize your setup by adding these settings:
   "workbench.productIconTheme": "fluent-icons",
   "editor.cursorBlinking": "expand",
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorWidth": 4,
+  "editor.cursorWidth": 4
 }
 ```
 
@@ -170,6 +170,7 @@ If you'd like to contribute to improving the theme or add new features:
 <div align="center">
 
 [![⭐ Star This Theme](https://img.shields.io/github/stars/Amr-Elshabrawy-Dev/rich-black-theme?style=for-the-badge&logo=github&color=yellow)](https://github.com/Amr-Elshabrawy-Dev/rich-black-theme) [![VS Code Downloads](https://img.shields.io/visual-studio-marketplace/d/rich-black-theme.amr-rich-black-theme?style=for-the-badge&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=rich-black-theme.amr-rich-black-theme) [![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/rich-black-theme.amr-rich-black-theme?style=for-the-badge&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=rich-black-theme.amr-rich-black-theme) [![VS Code Rating](https://img.shields.io/visual-studio-marketplace/r/rich-black-theme.amr-rich-black-theme?style=for-the-badge&logo=visualstudiocode&color=blue)](https://marketplace.visualstudio.com/items?itemName=rich-black-theme.amr-rich-black-theme)
+
 </div>
 
 ---
@@ -186,8 +187,8 @@ If you'd like to contribute to improving the theme or add new features:
 
   <div align="center">
     <h1 style="color: #2ea44f;">👨‍💻 AMR ELSHABRAWY</h1>
-      <img src="./assets/amr.svg" alt="Amr Elshabrawy Logo" width="100">
-      <p style="color: #586069; font-size: 1.1rem; margin-top: 1rem;">
+      <img src="./assets/amr.png" alt="Amr Elshabrawy Logo" width="200">
+      <p style="color: #586069;">
         Created with 💚 by <strong><a href="https://github.com/Amr-Elshabrawy-Dev">AMR ELSHABRAWY</a></strong> 🌟 &copy; 2025
       </p>
   </div>
