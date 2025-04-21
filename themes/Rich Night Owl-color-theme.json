@@ -87,6 +87,10 @@
     "statusBarItem.prominentHoverBackground": "#202431",
     "statusBarItem.remoteBackground": "#5f7e97",
     "statusBarItem.remoteForeground": "#eeefff",
+    // Side bar title and section header
+    "sideBarTitle.foreground": "#d6deeb",
+    "sideBarSectionHeader.background": "#28707d40",
+    "sideBarSectionHeader.foreground": "#d6deeb",
     // Tab colors
     "tab.activeBackground": "#011627",
     "tab.activeForeground": "#d2dee7",
