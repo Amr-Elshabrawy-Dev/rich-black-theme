@@ -11,13 +11,18 @@ A sophisticated **dark theme** for Visual Studio Code that delivers an unparalle
 Perfect for developers who demand both style and functionality in their coding environment. Available in two variants: **Rich Black** and **Night Owl**.
 
 <details>
-<summary><strong>Rich Black</strong></summary>
+<summary><strong>Rich Black Preview</strong></summary>
 <img width="100%" src="./assets/rich-black.jpg" alt="Rich black syntax highlighting preview">
 </details>
 
 <details>
 <summary><strong>Night Owl Preview</strong></summary>
 <img width="100%" src="./assets/night-owl.jpg" alt="Night Owl syntax highlighting preview">
+</details>
+
+<details>
+<summary><strong>Rich Dark Preview</strong></summary>
+<img width="100%" src="./assets/rich-dark.jpg" alt="Rich Dark syntax highlighting preview">
 </details>
 
 ---
@@ -67,6 +72,14 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 - 🔍 Semantic Highlighting: Enhanced code readability with meaningful color associations
 - 🌙 Low-Light Optimized: Perfect for late-night coding sessions
 - ♿ Accessible Design: Carefully chosen contrast ratios for better visibility
+
+**🌑 Rich Dark Theme:**
+
+- 🎭 Modern Dark Interface: Balanced dark theme for professional coding
+- 🎨 Refined Color Scheme: Elegant palette with moderate contrast levels
+- 🔆 Clear Visibility: Enhanced readability in various lighting conditions
+- 🛠️ Multi-Language Support: Optimized for diverse programming languages
+- 🖥️ Professional Design: Clean and distraction-free coding environment
 
 **✨ Both themes feature:**
 
@@ -192,29 +205,5 @@ If you'd like to contribute to improving the theme or add new features:
         Created with 💚 by <strong><a href="https://github.com/Amr-Elshabrawy-Dev">AMR ELSHABRAWY</a></strong> 🌟 &copy; 2025
       </p>
   </div>
-
----
-
-### Color Palette Guide
-
-Our theme uses a carefully selected color palette to ensure optimal readability and visual harmony:
-
-- **Background:**
-  - 🖤 Rich Black (`#0c0c0e`) - Main background color
-  - 🌑 Dark Gray (`#1a1b26`) - Secondary background color
-- **Primary Colors:**
-  - ⚪ white (`#d4bedf`) - Text color
-  - 🔵 Blue (`#7aa2f7`) - Functions, methods
-  - 🔴 Red (`#f7768e`) - Keywords, operators
-  - 💚 Green (`#9ece6a`) - Strings, success states
-  - 🟠 Orange (`#e0af68`) - Numbers, constants
-  - 💜 Purple (`#bb9af7`) - Special keywords, decorators
-  - 🔆 Cyan (`#7dcfff`) - Tags, annotations
-  - ⚪ Light Gray (`#a9b1d6`) - Default text
-  - 🔘 Dark Gray (`#565f89`) - Comments, documentation
-
-These colors are consistently applied throughout the theme to create a cohesive and professional coding experience. Each color has been tested for contrast and readability on OLED displays.
-
-> **Note:** The complete theme includes additional subtle variations of these base colors for specific syntax highlighting cases while maintaining visual consistency.
 
 ---
