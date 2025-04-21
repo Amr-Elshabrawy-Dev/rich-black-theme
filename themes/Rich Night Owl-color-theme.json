@@ -14,6 +14,7 @@
     "panel.background": "#011627",
     "dropdown.background": "#011627",
     "editorGroupHeader.tabsBackground": "#021320",
+    "editorGroupHeader.tabsBorder": "#5f7e97",
     // Modern accent colors
     "button.background": "#7e57c2cc",
     "button.foreground": "#ffffffcc",
