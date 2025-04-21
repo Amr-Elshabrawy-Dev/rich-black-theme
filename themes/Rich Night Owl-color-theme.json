@@ -210,17 +210,6 @@
     // Additional git colors
     "gitDecoration.stageModifiedResourceForeground": "#82aaff",
     "gitDecoration.submoduleResourceForeground": "#c792ea",
-    // Chat button colors
-    "inlineChat.background": "#011627",
-    "inlineChat.border": "#5f7e97",
-    "inlineChatInput.background": "#021320",
-    "inlineChatInput.border": "#5f7e97",
-    "inlineChatInput.focusBorder": "#7e57c2",
-    "inlineChatInput.placeholderForeground": "#637777",
-    "chat.slashCommandBackground": "#5f7e9720",
-    "chat.slashCommandForeground": "#5f7e97",
-    "interactive.activeCodeBorder": "#5f7e97",
-    "interactive.inactiveCodeBorder": "#637777",
     // Title bar inactive state
     "titleBar.inactiveBackground": "#010e1a",
     "titleBar.inactiveForeground": "#5f7e97",
