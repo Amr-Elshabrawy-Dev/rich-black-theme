@@ -2,7 +2,7 @@
   "name": "amr-rich-black-theme",
   "displayName": "Amr-Rich-dark-theme",
   "description": "A custom color theme for VS Code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "Amr-Elshabrawy-Dev",
   "pricing": "Free",
   "author": {
@@ -24,23 +24,16 @@
     "Themes"
   ],
   "keywords": [
-    "Amr",
-    "rich",
-    "black",
     "theme",
-    "dark",
     "dark theme",
-    "vscode",
-    "vscode theme",
-    "vscode dark theme",
+    "rich black",
+    "modern",
+    "clean",
+    "minimal",
     "blue",
-    "Dark Theme",
-    "vsCodeHero",
-    "codeSTACKr",
-    "Cobalt",
-    "Night Owl",
-    "Night Owl Dark",
-    "Rich Dark"
+    "cool",
+    "developer friendly",
+    "night coding"
   ],
   "repository": {
     "type": "git",
@@ -52,6 +45,11 @@
         "label": "Rich Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Rich Dark-color-theme.json"
+      },
+      {
+        "label": "Rich Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rich Black-color-theme.json"
       },
       {
         "label": "Rich Night Owl",

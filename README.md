@@ -194,3 +194,27 @@ If you'd like to contribute to improving the theme or add new features:
   </div>
 
 ---
+
+### Color Palette Guide
+
+Our theme uses a carefully selected color palette to ensure optimal readability and visual harmony:
+
+- **Background:**
+  - 🖤 Rich Black (`#0c0c0e`) - Main background color
+  - 🌑 Dark Gray (`#1a1b26`) - Secondary background color
+- **Primary Colors:**
+  - ⚪ white (`#d4bedf`) - Text color
+  - 🔵 Blue (`#7aa2f7`) - Functions, methods
+  - 🔴 Red (`#f7768e`) - Keywords, operators
+  - 💚 Green (`#9ece6a`) - Strings, success states
+  - 🟠 Orange (`#e0af68`) - Numbers, constants
+  - 💜 Purple (`#bb9af7`) - Special keywords, decorators
+  - 🔆 Cyan (`#7dcfff`) - Tags, annotations
+  - ⚪ Light Gray (`#a9b1d6`) - Default text
+  - 🔘 Dark Gray (`#565f89`) - Comments, documentation
+
+These colors are consistently applied throughout the theme to create a cohesive and professional coding experience. Each color has been tested for contrast and readability on OLED displays.
+
+> **Note:** The complete theme includes additional subtle variations of these base colors for specific syntax highlighting cases while maintaining visual consistency.
+
+---
