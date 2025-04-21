@@ -272,7 +272,7 @@
     "inlineChatInput.focusBorder": "#bb9af7",
     "inlineChatInput.placeholderForeground": "#565f89",
     "chat.slashCommandBackground": "#7aa2f720",
-    "chat.slashCommandForeground": "#7aa2f7",
+    "chat.slashCommandForeground": "#c0caf5",
     "interactive.activeCodeBorder": "#7aa2f7",
     "interactive.inactiveCodeBorder": "#565f89"
   },
