@@ -264,17 +264,6 @@
     // Picker group styling
     "pickerGroup.foreground": "#bb9af7",
     "pickerGroup.border": "#191720",
-    // Chat button colors
-    "inlineChat.background": "#1a1b26",
-    "inlineChat.border": "#7aa2f7",
-    "inlineChatInput.background": "#191720",
-    "inlineChatInput.border": "#7aa2f7",
-    "inlineChatInput.focusBorder": "#bb9af7",
-    "inlineChatInput.placeholderForeground": "#565f89",
-    "chat.slashCommandBackground": "#7aa2f720",
-    "chat.slashCommandForeground": "#c0caf5",
-    "interactive.activeCodeBorder": "#7aa2f7",
-    "interactive.inactiveCodeBorder": "#565f89"
   },
   "tokenColors": [
     // Consolidated base font style rule
