@@ -1,6 +1,6 @@
 {
-  "name": "amr-rich-black-theme",
-  "displayName": "Amr-Rich-dark-theme",
+  "name": "amr-rich-dark-theme",
+  "displayName": "Amr-Rich-Dark-theme",
   "description": "A custom color theme for VS Code",
   "version": "1.2.0",
   "publisher": "Amr-Elshabrawy-Dev",
@@ -33,7 +33,16 @@
     "blue",
     "cool",
     "developer friendly",
-    "night coding"
+    "night coding",
+    "night owl",
+    "github",
+    "github dark",
+    "dark",
+    "modern",
+    "rich",
+    "rich dark",
+    "owl",
+    "night"
   ],
   "repository": {
     "type": "git",
@@ -55,6 +64,11 @@
         "label": "Rich Night Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/Rich Night Owl-color-theme.json"
+      },
+      {
+        "label": "Rich Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rich Github-color-theme.json"
       }
     ]
   },
