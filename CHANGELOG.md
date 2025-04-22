@@ -3,6 +3,18 @@
 All notable changes to the "rich-dark-theme" extension will be documented in this file.
 This format is based on [Keep a Changelog].
 
+## [1.3.0] - 2025-05-22 ✨
+
+### Added in 1.3.0 🎉
+
+- Introduced "Rich Github" theme variant with enhanced contrast and readability
+- Added support for semantic highlighting
+- Improved sidebar contrast and visibility
+
+### Changed in 1.3.0 🔄
+
+- Enhanced syntax highlighting for popular programming languages
+
 ## [1.2.0] - 2025-04-20 ✨
 
 ### Changed in 1.2.0 🔄

@@ -25,6 +25,11 @@ Perfect for developers who demand both style and functionality in their coding e
 <img width="100%" src="./assets/rich-dark.jpg" alt="Rich Dark syntax highlighting preview">
 </details>
 
+<details>
+<summary><strong>Rich Github Preview</strong></summary>
+<img width="100%" src="./assets/rich-github.jpg" alt="Rich Github syntax highlighting preview">
+</details>
+
 ---
 
 ## 📦 Installation
@@ -81,7 +86,15 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 - 🛠️ Multi-Language Support: Optimized for diverse programming languages
 - 🖥️ Professional Design: Clean and distraction-free coding environment
 
-**✨ Both themes feature:**
+**🌑 Rich Github Theme:**
+
+- 🌌 Soft Dark Interface: Comfortable dark blue tones for reduced eye strain
+- 🎨 Natural Syntax Colors: Nature-inspired color palette for intuitive coding
+- 🔆 Clear Visibility: Enhanced readability in various lighting conditions
+- 🛠️ Multi-Language Support: Optimized for diverse programming languages
+- 🖥️ Professional Design: Clean and distraction-free coding environment
+
+**✨ All themes feature:**
 
 - 🎯 Custom Workbench Colors: Harmonious UI elements across the entire IDE
 - 📝 Italic Support: Enhanced styling for comments and keywords
@@ -94,13 +107,13 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 
 - Open Command Palette (Ctrl + Shift + P or Cmd + Shift + P).
 - Type Preferences: Color Theme.
-- Search for "Rich Black Theme" and select it.
+- Search for "Rich Dark Theme" and select it.
 
 Alternatively, you can modify your `settings.json`:
 
 ```json
 {
-  "workbench.colorTheme": "Rich Black Theme"
+  "workbench.colorTheme": "Rich Black"
 }
 ```
 
