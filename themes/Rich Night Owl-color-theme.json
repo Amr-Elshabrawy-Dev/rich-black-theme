@@ -722,7 +722,10 @@
     },
     {
       "name": "Meta Selector",
-      "scope": "meta.selector",
+      "scope": [
+        "meta.selector",
+        "meta.selector.css",
+      ],
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic bold"
