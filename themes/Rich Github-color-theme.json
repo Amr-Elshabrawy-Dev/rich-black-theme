@@ -1,5 +1,5 @@
 {
-  "name": "AMR Rich Dark",
+  "name": "AMR Rich Github",
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
@@ -17,7 +17,7 @@
     // Modern accent colors
     "button.background": "#262C36",
     "button.foreground": "#ffffff",
-    "button.hoverBackground": "#262C36cc",
+    "button.hoverBackground": "#262C3680",
     "activityBar.activeBorder": "#4493F8",
     "activityBar.activeBackground": "#656c761a",
     "activityBar.activeFocusBorder": "#656c76",
@@ -48,8 +48,8 @@
     "editor.wordHighlightBackground": "#4493F833",
     "editor.wordHighlightStrongBackground": "#ff7b7233",
     "list.activeSelectionBackground": "#3d444d",
-    "list.hoverBackground": "#262C36",
-    "list.focusBackground": "#262C36",
+    "list.hoverBackground": "#3d444d",
+    "list.focusBackground": "#3d444d",
     "list.inactiveSelectionBackground": "#3d444d",
     // Terminal colors
     "terminal.ansiWhite": "#f0f6fc",
@@ -369,7 +369,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#A5D6FF"
+        "foreground": "#C6E5FF"
       }
     },
     {
@@ -484,7 +484,7 @@
         "JSXNested"
       ],
       "settings": {
-        "foreground": "#A5D6FF"
+        "foreground": "#C6E5FF"
       }
     },
     {
