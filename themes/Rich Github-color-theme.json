@@ -7,11 +7,11 @@
     "menu.background": "#151b23",
     "sideBar.background": "#151b23",
     "editor.background": "#0D1117",
-    "terminal.background": "#0D1117",
-    "activityBar.background": "#0D1117",
-    "statusBar.background": "#0D1117",
+    "terminal.background": "#151B23",
+    "activityBar.background": "#151B23",
+    "statusBar.background": "#151B23",
     "titleBar.activeBackground": "#151b23",
-    "panel.background": "#0D1117",
+    "panel.background": "#151B23",
     "dropdown.background": "#0D1117",
     "editorGroupHeader.tabsBackground": "#151b23",
     // Modern accent colors
@@ -19,7 +19,7 @@
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#262C3680",
     "activityBar.activeBorder": "#4493F8",
-    "activityBar.activeBackground": "#656c761a",
+    "activityBar.activeBackground": "#656c7630",
     "activityBar.activeFocusBorder": "#656c76",
     // Border colors
     "menu.border": "#3d444d",
@@ -31,6 +31,7 @@
     "tab.border": "#3d444d80",
     "dropdown.border": "#3d444d",
     "statusBar.border": "#3d444d",
+    "activityBar.border": "#3d444d",
     // Text colors
     "foreground": "#f0f6fc",
     "editor.foreground": "#f0f6fc",
@@ -53,7 +54,7 @@
     "list.inactiveSelectionBackground": "#3d444d",
     // Terminal colors
     "terminal.ansiWhite": "#f0f6fc",
-    "terminal.ansiBlack": "#0D1117",
+    "terminal.ansiBlack": "#151B23",
     "terminal.ansiBlue": "#4493F8",
     "terminal.ansiCyan": "#39c5cf",
     "terminal.ansiGreen": "#3fb950",
@@ -68,7 +69,7 @@
     "terminal.ansiBrightMagenta": "#d2a8ff",
     "terminal.ansiBrightRed": "#ffa198",
     "terminal.ansiBrightYellow": "#e3b341",
-    "terminal.selectionBackground": "#262C36",
+    "terminal.selectionBackground": "#656c76",
     "terminalCursor.background": "#f0f6fc",
     "terminalCursor.foreground": "#f0f6fc",
     "terminal.foreground": "#f0f6fc",
@@ -103,7 +104,7 @@
     "input.background": "#151b23",
     "input.border": "#3d444d",
     "input.foreground": "#f0f6fc",
-    "input.placeholderForeground": "#f0f6fccc",
+    "input.placeholderForeground": "#f0f6fc80",
     "inputOption.activeBorder": "#f0f6fc",
     "inputValidation.errorBackground": "#ff7b72f2",
     "inputValidation.errorBorder": "#ff7b72",
@@ -214,8 +215,6 @@
     "list.invalidItemForeground": "#ff7b72",
     "list.dropBackground": "#0D1117",
     "list.hoverForeground": "#ffffff",
-    // Activity bar border
-    "activityBar.border": "#0D1117",
     "icon.foreground": "#f0f6fc",
     // Side bar title and section header
     "sideBarTitle.foreground": "#f0f6fc",
