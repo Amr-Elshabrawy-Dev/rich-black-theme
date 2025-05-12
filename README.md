@@ -11,8 +11,8 @@ A sophisticated **dark theme** for Visual Studio Code that delivers an unparalle
 Perfect for developers who demand both style and functionality in their coding environment. Available in two variants: **Rich Black** and **Night Owl**.
 
 <details>
-<summary><strong>Rich Black Preview</strong></summary>
-<img width="100%" src="./assets/rich-black.jpg" alt="Rich black syntax highlighting preview">
+<summary><strong>Rich Dark Preview</strong></summary>
+<img width="100%" src="./assets/rich-dark.jpg" alt="Rich dark syntax highlighting preview">
 </details>
 
 <details>
@@ -21,8 +21,8 @@ Perfect for developers who demand both style and functionality in their coding e
 </details>
 
 <details>
-<summary><strong>Rich Dark Preview</strong></summary>
-<img width="100%" src="./assets/rich-dark.jpg" alt="Rich Dark syntax highlighting preview">
+<summary><strong>Rich Blue Preview</strong></summary>
+<img width="100%" src="./assets/rich-blue.jpg" alt="Rich blue syntax highlighting preview">
 </details>
 
 <details>
@@ -62,7 +62,7 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 
 ## 🔍 Features
 
-**🎨 Rich Black Theme:**
+**🌑 Rich Dark Theme:**
 
 - 🖤 Sleek Black Interface: Ultra-dark theme optimized for long coding sessions
 - 🌈 Rich Syntax Highlighting: Vibrant colors that pop against the deep black background
@@ -78,7 +78,7 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 - 🌙 Low-Light Optimized: Perfect for late-night coding sessions
 - ♿ Accessible Design: Carefully chosen contrast ratios for better visibility
 
-**🌑 Rich Dark Theme:**
+**🌌 Rich blue Theme:**
 
 - 🎭 Modern Dark Interface: Balanced dark theme for professional coding
 - 🎨 Refined Color Scheme: Elegant palette with moderate contrast levels

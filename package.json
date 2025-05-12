@@ -52,14 +52,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "Rich Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rich Blue-color-theme.json"
+      },
+      {
         "label": "Rich Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Rich Dark-color-theme.json"
-      },
-      {
-        "label": "Rich Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Rich Black-color-theme.json"
       },
       {
         "label": "Rich Night Owl",
@@ -72,9 +72,9 @@
         "path": "./themes/Rich Github-color-theme.json"
       },
       {
-        "label": "Rich Purple",
+        "label": "Rich Golden",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rich Purple-color-theme.json"
+        "path": "./themes/Rich Golden-color-theme.json"
       }
     ]
   },
