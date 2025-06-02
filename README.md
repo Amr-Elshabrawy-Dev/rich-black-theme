@@ -34,22 +34,35 @@ Perfect for developers who demand both style and functionality in their coding e
 
 ## 📦 Installation
 
-### Via VS Code Marketplace
+### 1️⃣ Via VS Code Marketplace (Recommended)
 
-- Open **Visual Studio Code**.
-- Go to the **Extensions view** by clicking the **Extensions icon** in the sidebar or pressing `Ctrl + Shift + X`.
-- Search for **"Amr Rich Black Theme"**.
-- Click **Install** to add the theme to your VS Code.
-- 🌟🌟🌟🌟🌟 Rate five-stars 😃
+1. Launch **Visual Studio Code**
+2. Access the **Extensions view**:
+   - Click the **Extensions icon** in the sidebar
+   - Use keyboard shortcut:
+     - Windows/Linux: `Ctrl + Shift + X`
+     - macOS: `Cmd + Shift + X`
+3. In the search box, type **"Amr Rich Black Theme"**
+4. Locate the theme in the results and click **Install**
+5. Once installed, click **Reload** to activate
+6. Select the theme:
+   - Press `Ctrl/Cmd + K + T`
+   - Choose "Rich Black" from the list
+7. 🌟 If you enjoy the theme, please consider rating it!
 
----
+### 2️⃣ Via Quick Open
 
-### Via Command Line
+1. Launch VS Code
+2. Press `Ctrl/Cmd + P`
+3. Paste: `ext install amr-rich-black-theme`
+4. Press Enter
+
+### 3️⃣ Manual Installation
 
 You can also install the extension directly using the terminal:
 
 ```bash
-code --install-extension your-publisher-name.rich-black-theme
+code --install-extension amr-rich-black-theme
 ```
 
 ---
