@@ -83,44 +83,39 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/Amr
 
 ## 🔍 Features
 
-**🌑 Rich Dark Theme:**
+### 📱 Display Optimization
 
-- 🖤 Sleek Black Interface: Ultra-dark theme optimized for long coding sessions
-- 🌈 Rich Syntax Highlighting: Vibrant colors that pop against the deep black background
-- 👀 High Contrast: Carefully selected color combinations for optimal readability
-- ⚙️ Customizable UI: Fine-tuned controls for personalizing your coding environment
-- 💻 Code-First Design: Optimized for multiple programming languages and frameworks
+- 🖤 OLED/AMOLED Optimized: True black (#000000) background for perfect contrast
+- 🌙 Low-Light Mode: Carefully calibrated colors for night-time coding
+- 👀 Eye Care: Reduced blue light emission and optimal contrast ratios
 
-**🌙 Night Owl Theme:**
+### 🎨 Syntax Enhancement
 
-- 🌌 Soft Dark Interface: Comfortable dark blue tones for reduced eye strain
-- 🎨 Natural Syntax Colors: Nature-inspired color palette for intuitive coding
-- 🔍 Semantic Highlighting: Enhanced code readability with meaningful color associations
-- 🌙 Low-Light Optimized: Perfect for late-night coding sessions
-- ♿ Accessible Design: Carefully chosen contrast ratios for better visibility
+- 🎯 Semantic Token Support: Advanced language-aware highlighting
+- 🔍 Context-Aware Colors: Different hues for variables, functions, and types
+- 📝 Rich Typography: Optional italics for comments, keywords, and decorators
+- 🎭 Bracket Pair Colorization: Enhanced nested code readability
 
-**🌌 Rich blue Theme:**
+### 💻 Editor Integration
 
-- 🎭 Modern Dark Interface: Balanced dark theme for professional coding
-- 🎨 Refined Color Scheme: Elegant palette with moderate contrast levels
-- 🔆 Clear Visibility: Enhanced readability in various lighting conditions
-- 🛠️ Multi-Language Support: Optimized for diverse programming languages
-- 🖥️ Professional Design: Clean and distraction-free coding environment
+- ⚡ Performance Optimized: Minimal GPU usage and instant rendering
+- 🔄 Git Integration: Distinctive colors for added, modified, and deleted content
+- 💠 Minimap Enhancement: Clear code structure visualization
+- 📊 Indent Guidelines: Subtle but clear indentation markers
 
-**🌑 Rich Github Theme:**
+### 🛠 Development Features
 
-- 🌌 Soft Dark Interface: Comfortable dark blue tones for reduced eye strain
-- 🎨 Natural Syntax Colors: Nature-inspired color palette for intuitive coding
-- 🔆 Clear Visibility: Enhanced readability in various lighting conditions
-- 🛠️ Multi-Language Support: Optimized for diverse programming languages
-- 🖥️ Professional Design: Clean and distraction-free coding environment
+- 🔍 Debug Highlighting: Clear indication of breakpoints and current execution
+- ⚠️ Error Visualization: Distinct colors for errors, warnings, and info
+- 📱 Panel Integration: Themed terminal, output, and debug console
+- 🎯 Peek View: Enhanced inline code reference viewing
 
-**✨ All themes feature:**
+### 🎛 Workbench Features
 
-- 🎯 Custom Workbench Colors: Harmonious UI elements across the entire IDE
-- 📝 Italic Support: Enhanced styling for comments and keywords
-- 🔄 Git Decoration: Clear indication of source control changes
-- 💻 Integrated Terminal: Matching colors for a consistent experience
+- 🎨 Custom UI Elements: Themed scrollbars, buttons, and panels
+- 📑 Tab Management: Clear active/inactive tab distinction
+- 💫 Status Bar: Information-rich bottom bar with clear indicators
+- 🔲 Panel Borders: Subtle separation between UI elements
 
 ---
 
@@ -134,7 +129,7 @@ Alternatively, you can modify your `settings.json`:
 
 ```json
 {
-  "workbench.colorTheme": "Rich Black"
+  "workbench.colorTheme": "Rich Github"
 }
 ```
 
@@ -190,12 +185,44 @@ You can further personalize your setup by adding these settings:
 
 ## 📖 Contributing
 
-If you'd like to contribute to improving the theme or add new features:
+We welcome contributions to make this theme even better! Here's how you can help:
 
-- Fork this repository.
-- Create a new branch for your feature or bugfix.
-- Make your changes and run tests locally.
-- Open a Pull Request with a clear description of what you've done.
+### 🚀 Getting Started
+
+1. Fork the repository
+2. Clone your fork: `git clone https://github.com/YOUR-USERNAME/rich-black-theme.git`
+3. Create a feature branch: `git checkout -b feature/your-feature-name`
+4. Install dependencies: `npm install`
+
+### 💻 Development
+
+1. Make your changes to the theme files in the `themes` directory
+2. Test your changes:
+   - Press F5 to open a new VS Code window with your changes
+   - Use `npm run test` to run theme tests
+3. Update documentation if needed
+
+### 📝 Submission Guidelines
+
+1. Ensure your code follows our style guidelines
+2. Add comments for any complex color choices
+3. Test your theme in different file types
+4. Commit your changes: `git commit -m "feat: add new feature"`
+5. Push to your fork: `git push origin feature/your-feature-name`
+6. Open a Pull Request with:
+   - Clear description of changes
+   - Screenshots if applicable
+   - Any related issues
+
+### 🔍 What We're Looking For
+
+- Bug fixes
+- Color scheme improvements
+- New theme variants
+- Documentation enhancements
+- Accessibility improvements
+
+For major changes, please open an issue first to discuss your ideas.
 
 ---
 
@@ -226,7 +253,7 @@ If you'd like to contribute to improving the theme or add new features:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/@AmrElshabr43803)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653) [![Twitter](https://img.shields.io/badge/Twitter-000010?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
 
 </div>
 
