@@ -1,14 +1,22 @@
-# 🎨 Rich Dark Theme for VS Code
+# 🎨 Rich Black Theme for VS Code
 
-A sophisticated **dark theme** for Visual Studio Code that delivers an unparalleled coding experience. Featuring:
+Transform your coding environment with this meticulously crafted dark theme collection for Visual Studio Code. Featuring:
 
-- 🖤 Pure black background optimized for OLED displays
-- 🎨 Vibrant syntax highlighting for enhanced code readability
-- 🌈 Carefully curated color palette for reduced eye strain
-- ✨ Modern and elegant interface design
-- 💻 Optimized for long coding sessions
+- 🖤 True black background perfectly optimized for OLED/AMOLED displays
+- 🎨 Intelligent syntax highlighting with semantic color mapping
+- 🌈 Scientific color theory-based palette for maximum readability
+- 🔷 Distinctive accent colors that pop without strain
+- ✨ Modern, clutter-free interface design
+- 💻 Performance optimized for marathon coding sessions
+- 🎯 Enhanced contrast for better code comprehension
+- 🌙 Multiple variants for different lighting conditions
 
-Perfect for developers who demand both style and functionality in their coding environment. Available in two variants: **Rich Black** and **Night Owl**.
+Perfect for developers who demand both aesthetics and functionality in their coding environment. Available in four carefully crafted variants:
+
+- **Rich Black** - Pure OLED-optimized dark theme
+- **Night Owl** - Gentle dark blue tones for late-night coding
+- **Rich Blue** - Professional navy-based dark theme
+- **Rich Github** - GitHub-inspired dark experience
 
 <details>
 <summary><strong>Rich Dark Preview</strong></summary>
