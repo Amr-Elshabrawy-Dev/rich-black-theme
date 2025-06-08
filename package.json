@@ -2,7 +2,7 @@
   "name": "amr-rich-black-theme",
   "displayName": "Amr Rich theme",
   "description": "A collection of elegant dark themes featuring Rich Blue, Dark, Night Owl, Github, and Golden variants for a comfortable coding experience",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "rich-black-theme",
   "pricing": "Free",
   "author": {
@@ -43,7 +43,10 @@
     "owl",
     "night",
     "color",
-    "purple"
+    "purple",
+    "golden",
+    "cosmic",
+    "cosmic night"
   ],
   "repository": {
     "type": "git",
@@ -75,6 +78,11 @@
         "label": "Rich Golden",
         "uiTheme": "vs-dark",
         "path": "./themes/Rich Golden-color-theme.json"
+      },
+      {
+        "label": "Rich Cosmic Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rich Cosmic Night-color-theme.json"
       }
     ]
   },

@@ -11,30 +11,32 @@ Transform your coding environment with this meticulously crafted dark theme coll
 - 🎯 Enhanced contrast for better code comprehension
 - 🌙 Multiple variants for different lighting conditions
 
-Perfect for developers who demand both aesthetics and functionality in their coding environment. Available in four carefully crafted variants:
+Perfect for developers who demand both aesthetics and functionality in their coding environment. Available in six carefully crafted variants:
 
-- **Rich Black** - Pure OLED-optimized dark theme
-- **Night Owl** - Gentle dark blue tones for late-night coding
-- **Rich Blue** - Professional navy-based dark theme
-- **Rich Github** - GitHub-inspired dark experience
+- 🖤 **Rich Black** - Pure OLED-optimized dark theme with perfect contrast and vibrant accents for crystal-clear code visibility
+- 🦉 **Rich Night Owl** - Gentle dark blue tones specially designed for reduced eye strain during late-night coding sessions
+- 🌊 **Rich Blue** - Professional navy-based dark theme with enhanced readability and color semantics for focused daytime development
+- 🐱 **Rich Github** - Modern dark interpretation of GitHub's familiar color palette with improved contrast and visual hierarchy
+- ✨ **Rich Golden** - Luxurious dark theme featuring warm golden accents and amber undertones for a sophisticated coding experience
+- 🌌 **Rich Cosmic Night** - Celestial-inspired dark theme with subtle brown undertones and stellar highlights for an immersive atmosphere
 
 <details>
-<summary><strong>Rich Dark Preview</strong></summary>
+<summary>🖤 <strong>Rich Dark Preview</strong></summary>
 <img width="100%" src="./assets/rich-dark.jpg" alt="Rich dark syntax highlighting preview">
 </details>
 
 <details>
-<summary><strong>Night Owl Preview</strong></summary>
+<summary>🦉 <strong>Night Owl Preview</strong></summary>
 <img width="100%" src="./assets/night-owl.jpg" alt="Night Owl syntax highlighting preview">
 </details>
 
 <details>
-<summary><strong>Rich Blue Preview</strong></summary>
+<summary>🌊 <strong>Rich Blue Preview</strong></summary>
 <img width="100%" src="./assets/rich-blue.jpg" alt="Rich blue syntax highlighting preview">
 </details>
 
 <details>
-<summary><strong>Rich Github Preview</strong></summary>
+<summary>🐱 <strong>Rich Github Preview</strong></summary>
 <img width="100%" src="./assets/rich-github.jpg" alt="Rich Github syntax highlighting preview">
 </details>
 
