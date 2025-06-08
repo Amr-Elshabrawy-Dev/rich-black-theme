@@ -3,9 +3,9 @@
 All notable changes to the "rich-dark-theme" extension will be documented in this file.
 This format is based on [Keep a Changelog].
 
-## [1.4.0] - 2025-06-08 ✨
+## [1.4.1] - 2025-06-08 ✨
 
-### Added in 1.4.0 🎉
+### Added in 1.4.1 🎉
 
 - Introduced "Cosmic Night" theme variant featuring:
   - Deep space-inspired dark backgrounds
@@ -14,7 +14,7 @@ This format is based on [Keep a Changelog].
   - Carefully crafted syntax highlighting colors
   - Elegant transparency effects
 
-### Changed in 1.4.0 🔄
+### Changed in 1.4.1 🔄
 
 - Updated theme naming convention for better clarity
 - Enhanced overall color coordination for improved visual experience
